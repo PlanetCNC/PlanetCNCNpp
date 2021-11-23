@@ -123,6 +123,6 @@ url			- Downloads from internet				Usage: url("http://www.planet-cnc.com/")
 sha256		- Calculates SHA256 from string			Usage: sha256("PlanetCNC") 
 sha256_f	- Calculates SHA256 from file			Usage: sha256_f("c:\myfile.txt") 
 md5			- Calculates MD5 from string			Usage: md5("PlanetCNC")  
-md5_f		- Calculates MD5 from file				Usage: md5_f("c:\myfile.txt")  
+md5_f		- Calculates MD5 from file				Usage: md5_f("c:\myfiles.txt")  
 
 
